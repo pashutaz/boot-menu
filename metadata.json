@@ -1,0 +1,7 @@
+{
+  "uuid": "boot-menu@pashutaz",
+  "name": "OS Boot Switcher Menu",
+  "description": "Quickly reboot into Windows or another OS from the top bar.",
+  "shell-version": [ "45", "46", "47", "48", "49", "50" ],
+  "url": "https://github.com/pashutaz/gnome-boot-switcher"
+}
