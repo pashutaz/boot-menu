@@ -25,3 +25,15 @@ A lightweight, secure, and dynamic GNOME Shell extension that allows you to seam
    ```bash
    mkdir -p ~/.local/share/gnome-shell/extensions/boot-menu@local
    # Copy extension.js, metadata.json, and other files into this directory
+   ```
+
+2. Enable the extension using `gnome-extensions`:
+   ```bash
+   gnome-extensions enable boot-menu@local
+   ```
+
+3. Restart GNOME Shell:
+
+   * On X11: Press `Alt + F2`, type `r`, and press `Enter`.
+
+   * On Wayland: Log out and log back in.
